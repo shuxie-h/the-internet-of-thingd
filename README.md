@@ -1,1 +1,1 @@
-# the-internet-of-thingd
+# the-internet-of-things
